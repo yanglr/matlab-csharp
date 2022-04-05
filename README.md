@@ -18,3 +18,5 @@ Matlab C# programming - materials and tools.
 [Using The MATLAB Compiler Linux Version-Matlab Compiler Linux.pdf](https://github.com/yanglr/matlab-csharp/blob/main/ebooks/Using%20The%20MATLAB%20Compiler%20Linux%20Version-Matlab%20Compiler%20Linux.pdf)
 
 [Using The MATLAB Compiler Windows Version - Matlab Compiler Win.pdf](https://github.com/yanglr/matlab-csharp/blob/main/ebooks/Using%20The%20MATLAB%20Compiler%20Windows%20Version%20-%20Matlab%20Compiler%20Win.pdf)
+
+[External interfaces to Matlab-apiext-R2018a.pdf](https://github.com/yanglr/matlab-csharp/blob/main/ebooks/External%20interfaces%20to%20Matlab-apiext-R2018a.pdf)
